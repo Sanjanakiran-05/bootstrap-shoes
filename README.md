@@ -18,4 +18,5 @@ This is an improved version of my previous web project, built using **HTML, CSS,
 1. Clone the repository:  ```https://github.com/Sanjanakiran-05/bootstrap-shoes```  
 2. Open the **index.html** file in a browser.  
 
-## Live Demo: https://shoe-bt3-sk.netlify.app/
+## Live Demo: 
+```https://shoe-bt3-sk.netlify.app/```
